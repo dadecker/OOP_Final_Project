@@ -1,0 +1,5 @@
+BO100 BO200 ##### 213456 Decker David 11/14/1982 Male Bachelors A Computer Science
+AH100 AH300 AH600 854976 Smith Jill 03/17/1997 Female Masters B Mechanical Engineering
+CS200 CS400 CS300 124578 White Bob 09/14/1992 Male Doctorate A Art History
+ME200 ME350 ##### 578996 Patel Raj 08/25/1989 Male Bachelors C Biology
+CS200 CS400 CS300 748237 Mary Perez 12/15/1998 Female Doctorate D Computer Science

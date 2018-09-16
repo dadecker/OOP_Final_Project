@@ -1,0 +1,10 @@
+Student CS220 CS101 ##### 123456 Decker David 11/14/1982 Male Bachelors A Computer Science
+Student AH220 ##### ##### 854976 Smith Jill 03/17/1997 Female Masters B Mechanical Engineering
+Student AH220 ##### ##### 124578 White Bob 09/14/1992 Male Doctorate A Art History
+Student BO101 BO200 ##### 578996 Patel Raj 08/25/1989 Male Bachelors C Biology
+Student CS101 CS200 ##### 748237 Mary Perez 12/15/1998 Female Doctorate D Computer Science
+Teacher BO101 ME200 ME250 154896 Smith John 10/12/1975 Adjunct Art History
+Teacher BO300 BO400 ##### 879654 Patel Aarav 09/10/1982 Professor Biology
+Teacher AH220 ##### ##### 568974 Doe Jane 12/15/1965 Lecturer Art History
+Teacher CS101 CS200 ##### 784567 Garcia Pedro 12/12/1972 Teaching Assistant Computer Science
+Teacher CS101 ##### ##### 589463 Mifsud Omar 09/15/1992 Professor Mechanical Engineering

@@ -1,0 +1,5 @@
+BO100 BO200 ##### 879654 Patel Aarav 09/10/1982 Professor Biology
+BO100 AH300 AH500 568974 Doe Jane 12/15/1965 Lecturer Art History
+CS100 CS200 CS250 158476 Garcia Pedro 12/12/1972 Teaching Assistant Computer Science
+CS500 CS600 CS150 589463 Mifsud Omar 09/15/1992 Professor Computer Science
+ME100 ME200 ME250 154896 Smith John 10/12/1975 Adjunct Mechanical Engineering
